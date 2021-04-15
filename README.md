@@ -27,4 +27,3 @@ career as a geospatial data analyst. My interest lies in the following environme
 🌱 I’m currently learning javascript.<br>
 👯 I’m looking to collaborate on mainly Data Analysis (specially regarding geospatial data).<br>
 💬 Ask me about GIS and Spatial Analysis.<br>
-⚡ Fun fact: Sometimes I like to play with .NET framework.<br>
