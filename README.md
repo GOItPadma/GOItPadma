@@ -27,3 +27,6 @@ career as a geospatial data analyst. My interest lies in the following environme
 🌱 I’m currently learning javascript.<br>
 👯 I’m looking to collaborate on mainly Data Analysis (specially regarding geospatial data).<br>
 💬 Ask me about GIS and Spatial Analysis.<br>
+
+## Connect with Me<br>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/padmanabha-chowdhury-652a17a8/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackexchange.svg' alt='stackexchange' height='30'>](https://gis.stackexchange.com/users/181131/padmanabha-chowdhury)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg' alt='kaggle' height='30'>](https://www.kaggle.com/pnchowdhury)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/GOItPadma)
