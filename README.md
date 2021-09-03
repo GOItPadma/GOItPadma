@@ -18,9 +18,9 @@ I am Padmanabha Chowdhury, currently pursuing my Bachelor's degree in <b>Geograp
 These are two of the main tools in geospatial science to solve various environmental problems. I am a <b>Pythonista</b>, <b>SQLista</b> and a <b>Javascript</b> fan. I want to build my
 career as a geospatial data analyst. My interest lies in the following environmental issues:
 <ul>
+<li>Coastal Geomorphology</li>
 <li>Coastal and Marine Environment</li>
-<li>Geomorphology</li>
-<li>Disaster Management</li> 
+<li>Coastal Disaster</li> 
 <li> Climate Change</li>
 </ul>
 🔭 I’m currently working on various projects addressing environmental issues of Bangladesh.<br>
