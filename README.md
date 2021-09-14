@@ -23,9 +23,8 @@ career as a geospatial data scientist. My interest lies in the following environ
 <li>Coastal Disaster</li> 
 <li> Climate Change</li>
 </ul>
-🔭 I’m currently working on various projects addressing environmental issues of Bangladesh.<br>
-🌱 I’m currently learning javascript.<br>
-👯 I’m looking to collaborate on mainly Data Analysis (specially regarding geospatial data).<br>
+🔭 I’m currently working on various projects addressing coastal processes of Bangladesh.<br>
+👯 I’m looking to collaborate on mainly Coastal Data Analysis (specially regarding geospatial data).<br>
 💬 Ask me about GIS and Spatial Analysis.<br>
 
 ## Connect with Me<br>
