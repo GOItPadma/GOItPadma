@@ -24,7 +24,7 @@ career as a geospatial data scientist. My interest lies in the following environ
 <li> Climate Change</li>
 </ul>
 🔭 I’m currently working as a Research Volunteer at <a href="https://crubd.org/">Coastal Research Unit (CRU)</a> of my department.<br>
-👯 I’m looking to collaborate on mainly coastal data Analysis, application of machine learning in solving coastal geomorphology<br>
+👯 I’m looking to collaborate on appllying machine learning techniques related to coastal geomorphology<br>
 💬 Ask me about GIS and Spatial Analysis.<br>
 
 ## Connect with Me<br>
