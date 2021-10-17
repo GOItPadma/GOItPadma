@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I am Padmanabha Chowdhury, currently pursuing my Bachelor's degree in <b>Geography and Environment</b>, University of Dhaka. I mainly work with <b>Geographic Information System (GIS)</b> and <b>Remote Sensing (RS)</b> field.
-These are two of the main tools in geospatial science to solve various environmental problems. I am a <b>Pythonista</b>, <b>SQLista</b> and a <b>Javascript</b> fan. I want to build my
+I am a <b>Pythonista</b>, <b>SQLista</b> and a <b>Javascript</b> fan. I want to build my
 career as a geospatial data scientist. My interest lies in the following environmental issues:
 <ul>
 <li>Coastal Geomorphology</li>
