@@ -23,8 +23,8 @@ career as a geospatial data scientist. My interest lies in the following environ
 <li>Coastal Disaster</li> 
 <li> Climate Change</li>
 </ul>
-🔭 I’m currently working on various projects addressing coastal processes of Bangladesh.<br>
-👯 I’m looking to collaborate on mainly Coastal Data Analysis (specially regarding geospatial data).<br>
+🔭 I’m currently working as a Research Volunteer at <a href="https://crubd.org/">Coastal Research Unit (CRU)</a> of my department.<br>
+👯 I’m looking to collaborate on mainly coastal data Analysis, application of machine learning in solving coastal geomorphology<br>
 💬 Ask me about GIS and Spatial Analysis.<br>
 
 ## Connect with Me<br>
