@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 -->
 I am Padmanabha Chowdhury, currently pursuing my Bachelor's degree in <b>Geography and Environment</b>, University of Dhaka. I mainly work with <b>Geographic Information System (GIS)</b> and <b>Remote Sensing (RS)</b> field.
 I am a <b>Pythonista</b>, <b>SQLista</b> and a <b>Javascript</b> fan. I want to build my
-career as a geospatial data scientist. My interest lies in the following environmental issues:
+career as a geospatial data scientist. 
+<!--My interest lies in the following environmental issues:
 <ul>
 <li>Coastal Geomorphology</li>
 <li>Coastal and Marine Environment</li>
 <li>Coastal Processes</li> 
-<li> Coastal Hydrology</li>
-</ul>
+</ul>-->
 🔭 I’m currently working as a Research Volunteer at <a href="https://crubd.org/">Coastal Research Unit (CRU)</a> of my department.<br>
 <!-- 👯 I’m looking to collaborate on appllying machine learning techniques related to coastal geomorphology<br> !-->
 💬 Ask me about GIS and Spatial Analysis.<br>
