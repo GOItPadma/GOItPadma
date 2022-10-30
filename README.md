@@ -26,6 +26,8 @@ career as a geospatial data scientist.
 🔭 I’m currently working as a Research Volunteer at <a href="https://crubd.org/">Coastal Research Unit (CRU)</a> of my department.<br>
 <!-- 👯 I’m looking to collaborate on appllying machine learning techniques related to coastal geomorphology<br> !-->
 💬 Ask me about GIS and Spatial Analysis.<br>
-
+<br>
+<a href="https://stackexchange.com/users/21134018"><img src="https://stackexchange.com/users/flair/21134018.png?theme=dark" width="208" height="58" alt="profile for Padmanabha Chowdhury on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Padmanabha Chowdhury on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+<br>
 ## Connect with Me<br>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/padmanabha-chowdhury-652a17a8/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/researchgate.svg' alt='researchgate' height='30'>](https://www.researchgate.net/profile/Padmanabha-Chowdhury) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg' alt='kaggle' height='30'>](https://www.kaggle.com/pnchowdhury) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackexchange.svg' alt='stackexchange' height='30'>](https://gis.stackexchange.com/users/181131/padmanabha-chowdhury)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='30'>](https://twitter.com/PadmanabhaChy)
