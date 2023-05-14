@@ -23,8 +23,8 @@ career as a geospatial data scientist.
 <li>Coastal and Marine Environment</li>
 <li>Coastal Processes</li> 
 </ul>-->
-🔭 I’m currently working as a Research Volunteer at <a href="https://crubd.org/">Coastal Research Unit (CRU)</a> of my department.<br>
-<!-- 👯 I’m looking to collaborate on appllying machine learning techniques related to coastal geomorphology<br> !-->
+🔭 I’m currently working as a Research Intern at the <a href="https://www.du.ac.bd/profile/21">Disaster Research Training and Management Centre (DRTMC)</a>.<br>
+<!-- 👯 I’m looking to collaborate on appllying machine learning techniques related to natural hazards<br> !-->
 💬 Ask me about GIS and Spatial Analysis.<br>
 <br>
 <a href="https://stackexchange.com/users/21134018"><img src="https://stackexchange.com/users/flair/21134018.png?theme=dark" width="208" height="58" alt="profile for Padmanabha Chowdhury on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Padmanabha Chowdhury on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
