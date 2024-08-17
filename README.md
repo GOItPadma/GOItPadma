@@ -23,7 +23,7 @@ career as a geospatial data scientist.
 <li>Coastal and Marine Environment</li>
 <li>Coastal Processes</li> 
 </ul>-->
-🔭 I’m currently working as a Research Intern at the <a href="https://www.du.ac.bd/profile/21">Disaster Research Training and Management Centre (DRTMC)</a>.<br>
+🔭 I’m currently working on Google Earth Engine based projects </a>.<br>
 <!-- 👯 I’m looking to collaborate on appllying machine learning techniques related to natural hazards<br> !-->
 💬 Ask me about GIS and Spatial Analysis. I am a regular contributor to the GIS Stack Exchange Community.<br>
 
