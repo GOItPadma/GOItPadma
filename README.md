@@ -22,7 +22,7 @@ I am a <b>Pythonista, UseR </b>  and <b>Javascript</b> fan. I want to build my c
 <li>Coastal and Marine Environment</li>
 <li>Coastal Processes</li> 
 </ul>-->
-🔭 I’m currently working on Google Earth Engine-based projects </a>.<br>
+🔭 I’m currently working on Google Earth Engine-based projects.</a><br>
 <!-- 👯 I’m looking to collaborate on appllying machine learning techniques related to natural hazards<br> !-->
 💬 Ask me about GIS and Spatial Analysis. <br>
 
