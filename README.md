@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am Padmanabha Chowdhury, graduated in <b>Geography and Environment</b>. I mainly work with <b>Geographic Information System (GIS)</b> and <b>Remote Sensing (RS)</b> field.
-I am a <b>Pythonista</b>, <b>SQLista</b> and a <b>Javascript</b> fan. I want to build my
-career as a geospatial data scientist. 
+I am Padmanabha Chowdhury, graduated in <b>Geography and Environment</b>. I am passionate about <b>Geographic Information System (GIS)</b> and <b>Remote Sensing (RS)</b> technologies.
+I am a <b>Pythonista, UseR </b>  and <b>Javascript</b> fan. I want to build my career as a geospatial data scientist to address hydrological and climatological issues. 
 <!--My interest lies in the following environmental issues:
 <ul>
 <li>Coastal Geomorphology</li>
@@ -25,7 +24,7 @@ career as a geospatial data scientist.
 </ul>-->
 🔭 I’m currently working on Google Earth Engine based projects </a>.<br>
 <!-- 👯 I’m looking to collaborate on appllying machine learning techniques related to natural hazards<br> !-->
-💬 Ask me about GIS and Spatial Analysis. I am a regular contributor to the GIS Stack Exchange Community.<br>
+💬 Ask me about GIS and Spatial Analysis. <br>
 
 <br>
 <a href="https://gis.stackexchange.com/users/181131/padmanabha"><img src="https://gis.stackexchange.com/users/flair/181131.png?theme=dark" width="208" height="58" alt="profile for Padmanabha at Geographic Information Systems Stack Exchange, Q&amp;A for cartographers, geographers and GIS professionals" title="profile for Padmanabha at Geographic Information Systems Stack Exchange, Q&amp;A for cartographers, geographers and GIS professionals"></a>
