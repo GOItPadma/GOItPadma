@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I am Padmanabha Chowdhury, graduated in <b>Geography and Environment</b>. I am passionate about <b>Geographic Information System (GIS)</b> and <b>Remote Sensing (RS)</b> technologies.
-I am a <b>Pythonista, UseR </b>  and <b>Javascript</b> fan. I aim to build my career as a geospatial data scientist. My research interests include investigating hydro-climatic extremes, human-environment interactions and ecosystem dynamics using Remote Sensing, GIS and Machine Learning models.
+I am a <b>Pythonista, UseR </b>  and <b>Javascript</b> fan. I aim to build my career as a geospatial data scientist.
 <!--My interest lies in the following environmental issues:
 <ul>
 <li>Coastal Geomorphology</li>
