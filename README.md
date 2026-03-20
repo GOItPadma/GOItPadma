@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am Padmanabha Chowdhury, graduated in <b>Geography and Environment</b>. I am passionate about <b>Geographic Information System (GIS)</b>, <b>Remote Sensing (RS)</b> and <b>Machine Learning</b>.
+I am Padmanabha Chowdhury, graduated in <b>Geography and Environment</b> and passionate about <b>Geographic Information System (GIS)</b>, <b>Remote Sensing (RS)</b> and <b>Machine Learning</b>.
 I am a <b>Pythonista, UseR </b>  and <b>Javascript</b> fan.
 <!--My interest lies in the following environmental issues:
 <ul>
